@@ -1,0 +1,10 @@
+title: Know The Roll God Roll Wishlist
+description: list of all Know The Roll God Rolls for PVE and PVP. Follow on Twitter and Instagram @knowtheroll
+
+// The Last breath - PVE
+//notes: Recommended Masterwork & Mod - Range & Minor Spec - Link to article http://knowtheroll.com/pve-god-roll-the-last-breath/
+dimwishlist:item=507038823&perks=4090651448,1885400500,1820235745,4049631843,2697220197
+
+// The Last breath - PVP
+//notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - Link to article http://knowtheroll.com/pvp-god-roll-the-last-breath/
+dimwishlist:item=507038823&perks=4090651448,1885400500,2450788523,3673922083,2697220197

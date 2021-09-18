@@ -8,3 +8,87 @@ dimwishlist:item=507038823&perks=4090651448,1885400500,1820235745,4049631843,269
 // The Last breath - PVP
 //notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - Link to article http://knowtheroll.com/pvp-god-roll-the-last-breath/
 dimwishlist:item=507038823&perks=4090651448,1885400500,2450788523,3673922083,2697220197
+
+// Scathelocke - PVE
+//notes: Recommended Masterwork & Mod - Range & Rampage Spec - Link to article http://knowtheroll.com/pve-god-roll-scathelocke/
+dimwishlist:item=602618796&perks=1482024992,106909392,1820235745,3425386926,2697220197
+
+// Scathelocke - PVP
+//notes: Recommended Masterwork & Mod - Range & Counterbalance Stock - Link to article http://knowtheroll.com/pvp-god-roll-scathelocke/
+dimwishlist:item=602618796&perks=4090651448,3142289711,3436462433,3425386926,2697220197
+
+// Contingency Plan - PVP
+//notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - Link to article http://knowtheroll.com/pvp-god-roll-contingency-plan/
+dimwishlist:item=577528837&perks=839105230,3142289711,3436462433,1015611457,2697220197
+
+// Contingency Plan - PVE
+//notes: Recommended Masterwork & Mod - Range & Backup Mag - Link to article http://knowtheroll.com/pve-god-roll-contingency-plan/
+dimwishlist:item=577528837&perks=1482024992,3230963543,1820235745,4049631843,2697220197
+
+// Darkest Before - PVP
+//notes: Recommended Masterwork & Mod - Range & Rampage Spec - Link to Article http://knowtheroll.com/pvp-god-roll-darkest-before/
+dimwishlist:item=2481758391&perks=1482024992,1885400500,3436462433,3425386926,2697220197
+
+// Darkest Before - PVE
+//notes: Recommended Masterwork & Mod - Range & Minor Spec - Link to Article http://knowtheroll.com/pve-god-roll-darkest-before/
+dimwishlist:item=2481758391&perks=1482024992,1885400500,1820235745,3425386926,2697220197
+
+// A Swift Verdict - PVP
+//notes: Recommended Masterwork & Mod - Range & Sprint Grip - Link to article http://knowtheroll.com/pvp-god-roll-a-swift-verdict/
+dimwishlist:item=1626503676&perks=445755707,1885400500,4267945040,1015611457,2697220197
+
+// A Swift Verdict - PVE
+//notes: Recommended Masterwork & Mod - Range & Minor Spec - Link to article http://knowtheroll.com/pve-god-roll-a-swift-verdict/
+dimwishlist:item=1626503676&perks=445755707,679225683,3436462433,1015611457,2697220197
+
+// A Sudden Death - PVP
+//notes: Recommended Masterwork & Mod - Range & Freehand Grip - Link to article http://knowtheroll.com/pvp-god-roll-a-sudden-death/
+dimwishlist:item=2855157553&perks=1047830412,791862061,3436462433,957782887,2697220197
+
+// A Sudden Death - PVE
+//notes: Recommended Masterwork & Mod - Range & Boss Spec - Link to article http://knowtheroll.com/pve-god-roll-a-sudden-death/
+dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,2679249093,2697220197
+
+// Judgment - PVE
+//notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article http://knowtheroll.com/pve-god-roll-judgment/
+dimwishlist:item=1476654960&perks=1926090094,3230963543,3523296417,2458213969,2697220197
+
+// Judgment - PVP
+//notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - Link to article http://knowtheroll.com/pvp-god-roll-judgment/
+dimwishlist:item=1476654960&perks=1926090094,3142289711,1195158366,1954620775,2697220197
+
+// The Long Walk - PVE
+//notes: Recommended Masterwork & Mod - Handling & Boss Spec - http://knowtheroll.com/pve-god-roll-the-long-walk/
+dimwishlist:item=3326850591&perks=839105230,1431678320,2284787283,1771339417,186337601
+
+// The Long Walk - PVP
+//notes: Recommended Masterwork & Mod - Handling & Targeting Adjuster - http://knowtheroll.com/pvp-god-roll-the-long-walk/
+dimwishlist:item=3326850591&perks=1840239774,1968497646,2450788523,957782887,186337601
+
+// Shepherd's Watch - PVP
+//notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - Link to article http://knowtheroll.com/pvp-god-roll-shepherds-watch/
+dimwishlist:item=3743729616&perks=1840239774,3142289711,588594999,957782887,2697220197
+
+// Shepherd's Watch - PVE
+//notes: Recommended Masterwork & Mod - Range & Backup Mag - Link to article http://knowtheroll.com/pve-god-roll-shepherds-watch/
+dimwishlist:item=3743729616&perks=1840239774,1087426260,1556840489,4104185692,2697220197
+
+// Annual Skate - PVE
+//notes: Recommended Masterwork & Mod - Range & Dragonfly Spec - Link to article http://knowtheroll.com/pve-god-roll-annual-skate/
+dimwishlist:item=6857689&perks=1926090094,106909392,1168162263,2848615171,2697220197
+
+// Forge’s Pledge - PVP
+//notes: Recommended Masterwork & Mod - Range & Counterbalance Stock - Link to article http://knowtheroll.com/pvp-god-roll-forges-pledge/
+dimwishlist:item=1076810832&perks=839105230,3142289711,1570042021,3425386926,2697220197
+
+// Forge’s Pledge - PVE
+//notes: Recommended Masterwork & Mod - Range & Minor Spec - Link to article http://knowtheroll.com/pve-god-roll-forges-pledge/
+dimwishlist:item=1076810832&perks=1482024992,3230963543,3436462433,2458213969,2697220197
+
+// Peacebond - PVE
+//notes: Recommended Masterwork & Mod - Handling & Minor Spec - Link to article http://knowtheroll.com/pve-god-roll-peacebond/
+dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,124408337,186337601
+
+// Peacebond - PVP
+//notes: Recommended Masterwork & Mod - Handling & Freehand Grip - Link to article http://knowtheroll.com/pvp-god-roll-peacebond/
+dimwishlist:item=829330711&perks=4090651448,3142289711,2450788523,4082225868,186337601

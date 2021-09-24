@@ -92,3 +92,43 @@ dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,124408337,1863
 // Peacebond - PVP
 //notes: Recommended Masterwork & Mod - Handling & Freehand Grip - Link to article http://knowtheroll.com/pvp-god-roll-peacebond/
 dimwishlist:item=829330711&perks=4090651448,3142289711,2450788523,4082225868,186337601
+
+// Igneous Hammer - PVP
+//notes: Recommended Masterwork & Mod - Range & Rampage Spec - Link to article http://knowtheroll.com/pvp-god-roll-igneous-hammer/
+dimwishlist:item=2351180975&perks=1840239774,1561002382,2450788523,3425386926,2697220197
+
+// Igneous Hammer - PVE
+//notes: Recommended Masterwork & Mod - Range & Rampage Spec - Link to article http://knowtheroll.com/pve-god-roll-igneous-hammer/
+dimwishlist:item=2351180975&perks=1840239774,1431678320,1820235745,3425386926,2697220197
+
+// Eye of Sol - PVE
+//notes: Recommended Masterwork & Mod - Range & Boss Spec - Link to  http://knowtheroll.com/pve-god-roll-eye-of-sol/
+dimwishlist:item=3164743584&perks=1482024992,1431678320,3436462433,1546637391,2697220197
+
+// Eye of Sol - PVP
+//notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - Link to article http://knowtheroll.com/pvp-god-roll-eye-of-sol/
+dimwishlist:item=3164743584&perks=4090651448,3142289711,588594999,957782887,2697220197
+
+// Shayura's Wrath - PVP
+//notes: Recommended Masterwork & Mod - Range & Freehand Grip - Link to article http://knowtheroll.com/pvp-god-roll-shayuras-wrath/
+dimwishlist:item=3682803680&perks=1840239774,3142289711,1359896290,957782887,2697220197
+
+// Shayura's Wrath - PVE
+//notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article http://knowtheroll.com/pve-god-roll-shayuras-wrath/
+dimwishlist:item=3682803680&perks=1840239774,3230963543,2450788523,1015611457,2697220197
+
+// The Messenger - PVE
+//notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article http://knowtheroll.com/pve-god-roll-the-messenger/
+dimwishlist:item=3658188704&perks=839105230,679225683,1168162263,1015611457,2697220197
+
+// The Messenger - PVP
+//notes: Recommended Masterwork & Mod - Handling & Counterbalance Stock - Link to article http://knowtheroll.com/pvp-god-roll-the-messenger/
+dimwishlist:item=3658188704&perks=1482024992,1561002382,2450788523,3047969693,186337601
+
+// Reed’s Regret - PVE
+//notes: Recommended Masterwork & Mod - Range & Boss Spec - Link to article http://knowtheroll.com/pve-god-roll-reeds-regret/
+dimwishlist:item=1399243961&perks=839105230,2969185026,2284787283,1546637391,2697220197
+
+// Reed’s Regret - PVP
+//notes: Recommended Masterwork & Mod - Charge Time & Targeting Adjuster - Link to article http://knowtheroll.com/pvp-god-roll-reeds-regret/
+dimwishlist:item=1399243961&perks=839105230,2969185026,3436462433,124408337,3128594062

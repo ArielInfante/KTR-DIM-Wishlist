@@ -134,59 +134,59 @@ dimwishlist:item=1399243961&perks=839105230,2969185026,2284787283,1546637391,269
 dimwishlist:item=1399243961&perks=839105230,2969185026,3436462433,124408337,3128594062
 
 // Legal Action II - PVP
-//notes: Recommended Masterwork & Mod - Range & Rampage Spec - Link to article
+//notes: Recommended Masterwork & Mod - Range & Rampage Spec - Link to article https://knowtheroll.com/pvp-god-roll-legal-action-ii/
 dimwishlist:item=3409645497&perks=839105230,3142289711,3436462433,3425386926,2697220197
 
 // Legal Action II - PVE
-//notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article
+//notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article https://knowtheroll.com/pve-god-roll-legal-action-ii/
 dimwishlist:item=3409645497&perks=4090651448,106909392,2779035018,3425386926,2697220197
 
 // The Hothead - PVE
-//notes: Recommended Masterwork & Mod - Blast Radius & Boss Spec - Link to article
+//notes: Recommended Masterwork & Mod - Blast Radius & Boss Spec - Link to article https://knowtheroll.com/pve-god-roll-the-hothead/
 dimwishlist:item=4255171531&perks=3525010810,3796465595,3523296417,11612903,3803457565
 
 // The Hothead - PVP
-//notes: Recommended Masterwork & Mod - Blast Radius & Quick Access Sling - Link to article
+//notes: Recommended Masterwork & Mod - Blast Radius & Quick Access Sling - Link to article https://knowtheroll.com/pvp-god-roll-the-hothead/
 dimwishlist:item=4255171531&perks=1441682018,1996142143,3977735242,960810156,3803457565
 
 // Riiswalker - PVE
-//notes: Recommended Masterwork & Mod - Range & Boss Spec - Link to article
+//notes: Recommended Masterwork & Mod - Range & Boss Spec - Link to article https://knowtheroll.com/pve-god-roll-riiswalker/
 dimwishlist:item=108221785&perks=4090651448,791862061,3436462433,4082225868,2697220197
 
 // Riiswalker - PVP
-//notes: Recommended Masterwork & Mod - Range & Freehand Grip - Link to article
+//notes: Recommended Masterwork & Mod - Range & Freehand Grip - Link to article https://knowtheroll.com/pvp-god-roll-riiswalker/
 dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007,2697220197
 
 // Finite Impactor - PVP
-//notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - Link to article
+//notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - Link to article https://knowtheroll.com/pvp-god-roll-finite-impactor/
 dimwishlist:item=3813153080&perks=1926090095,1561002382,1570042021,3511092054,2697220197
 
 // Finite Impactor - PVE
-//notes: Recommended Masterwork & Mod - Range & Backup Mag - Link to article
+//notes: Recommended Masterwork & Mod - Range & Backup Mag - Link to article https://knowtheroll.com/pve-god-roll-finite-impactor/
 dimwishlist:item=3813153080&perks=1926090094,3230963543,2450788523,2458213969,2697220197
 
 // Occluded Finality - PVE
-//notes: Recommended Masterwork & Mod - Range & Backup Mag - Link to article
+//notes: Recommended Masterwork & Mod - Range & Backup Mag - Link to article https://knowtheroll.com/pve-god-roll-occluded-finality/
 dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1546637391,2697220197
 
 // Occluded Finality - PVP
-//notes: Recommended Masterwork & Mod - Handling & Targeting Adjuster - Link to article
+//notes: Recommended Masterwork & Mod - Handling & Targeting Adjuster - Link to  https://knowtheroll.com/pvp-god-roll-occluded-finality/
 dimwishlist:item=852551895&perks=1840239774,1968497646,957782887,47981717,186337601
 
 // Archon's Thunder - PVP
-//notes: Recommended Masterwork & Mod - Range & Counterbalance Stock - Link to article
+//notes: Recommended Masterwork & Mod - Range & Counterbalance Stock - Link to article https://knowtheroll.com/pvp-god-roll-archons-thunder/
 dimwishlist:item=1967303408&perks=1467527085,3177308360,2846385770,3425386926,2697220197
 
 // Archon's Thunder - PVE
-//notes: Recommended Masterwork & Mod - Range & Boss Spec - Link to article
+//notes: Recommended Masterwork & Mod - Range & Boss Spec - Link to article https://knowtheroll.com/pve-god-roll-archons-thunder/
 dimwishlist:item=1967303408&perks=4090651448,3230963543,2869569095,3425386926,2697220197
 
 // Sola's Scar - PVE
-//notes: Recommended Masterwork & Mod - Impact & Boss Spec - Link to article
+//notes: Recommended Masterwork & Mod - Impact & Boss Spec - Link to article https://knowtheroll.com/pve-god-roll-solas-scar/
 dimwishlist:item=1313528549&perks=938542991,269888150,1749209109,2396489472,3486498337
 
 // Sola's Scar - PVP
-//notes: Recommended Masterwork & Mod - Impact & Quick Access Sling - Link to article
+//notes: Recommended Masterwork & Mod - Impact & Quick Access Sling - Link to article https://knowtheroll.com/pvp-god-roll-solas-scar/
 dimwishlist:item=1313528549&perks=938542991,269888150,1749209109,2396489472,3486498337
 
 // Jurassic Green - PVE
@@ -196,3 +196,11 @@ dimwishlist:item=2261046232&perks=839105230,1885400500,1820235745,4104185692,269
 // Jurassic Green - PVP
 //notes: Recommended Masterwork & Mod - Range & Counterbalance Stock - Link to article https://knowtheroll.com/pvp-god-roll-jurassic-green/
 dimwishlist:item=2261046232&perks=839105230,1885400500,1570042021,3108830275,2697220197
+
+// Braytech Werewolf - PVE
+//notes: Recommended Masterwork & Mod - Range & Backup Mag - Link to article 
+dimwishlist:item=528834068&perks=1482024992,3230963543,1354429876,1546637391,2697220197
+
+// Braytech Werewolf - PVP
+//notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - Link to article https://knowtheroll.com/pvp-god-roll-braytech-werewolf/
+dimwishlist:item=528834068&perks=839105230,1885400500,1359896290,4082225868,2697220197

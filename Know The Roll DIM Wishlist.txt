@@ -220,3 +220,27 @@ dimwishlist:item=548958835&perks=1482024992,732557052,1820235745,4049631843,3841
 // Retraced Path - PVP
 //notes: Recommended Masterwork & Mod - Range & Sprint Grip - Link to article https://knowtheroll.com/pvp-god-roll-retraced-path/
 dimwishlist:item=548958835&perks=1482024992,732557052,1428297954,4104185692,2697220197
+
+// Wastelander M5 - PVE
+//notes: Recommended Masterwork & Mod - Handling & Major Spec - Link to article https://knowtheroll.com/pve-god-roll-wastelander-m5/
+dimwishlist:item=1679868061&perks=4090651448,791862061,1820235745,2360754333,2697220197
+
+// Wastelander M5 - PVP
+//notes: Recommended Masterwork & Mod - Range & Freehand Grip - Link to article https://knowtheroll.com/pvp-god-roll-wastelander-m5/
+dimwishlist:item=1679868061&perks=1047830412,3142289711,1428297954,47981717,186337601
+
+// BXR-55 Battler - PVE
+//notes: Recommended Masterwork & Mod - Range & Minor Spec - Link to article https://knowtheroll.com/pve-god-roll-bxr-55-battler/
+dimwishlist:item=2708806099&perks=1482024992,3230963543,3523296417,11612903,2697220197
+
+// BXR-55 Battler - PVP
+//notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - Link to article https://knowtheroll.com/pvp-god-roll-bxr-55-battler/
+dimwishlist:item=2708806099&perks=839105230,3142289711,1428297954,2846385770,2697220197
+
+// Matador 64 - PVE
+//notes: Recommended Masterwork & Mod - Handling & Major Spec - Link to article https://knowtheroll.com/pve-god-roll-matador-64/
+dimwishlist:item=2563012876&perks=4090651448,791862061,1556840489,2610012052,186337601
+
+// Matador 64 - PVP
+//notes: Recommended Masterwork & Mod - Range & Targeting Adjuster - https://knowtheroll.com/pvp-god-roll-matador-64/
+dimwishlist:item=2708806099&perks=839105230,3142289711,1428297954,2846385770,2697220197
